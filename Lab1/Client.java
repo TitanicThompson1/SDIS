@@ -22,10 +22,12 @@ public class Client {
         DatagramPacket packet = new DatagramPacket(buf, buf.length, address, Integer.parseInt(args[1]));
         socket.send(packet);
 
+        buf = new byte[256];
+        packet = new DatagramPacket(buf, buf.length);
         socket.receive(packet);
 
         String res = new String(packet.getData(), 0, packet.getLength());
-       
+        System.out.println(res);
         System.out.print("Client: ");
         for(int i = 2; i < args.length; i++){
             System.out.print(args[i] + " ");
