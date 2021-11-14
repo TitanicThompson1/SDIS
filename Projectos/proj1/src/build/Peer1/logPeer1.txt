@@ -1,0 +1,15 @@
+Calculated File ID 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d for Peer1/medium_file.pdf
+Sending the files...
+Sent message 2.0 PUTCHUNK 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 0 2 in MDB channel
+Sent message 2.0 PUTCHUNK 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 1 2 in MDB channel
+Sent all PUTCHUNK messages
+Received message: 2.0 STORED 2 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 1
+Peer Initiator updated the replication degree of 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d_1 to 1
+Received message: 2.0 STORED 4 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 0
+Peer Initiator updated the replication degree of 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d_0 to 1
+Received message: 2.0 STORED 3 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 0
+Peer Initiator updated the replication degree of 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d_0 to 2
+Received message: 2.0 STORED 3 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 1
+Peer Initiator updated the replication degree of 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d_1 to 2
+Calculated File ID 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d for Peer1/medium_file.pdf
+Sent message: 2.0 DELETE 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124dSent message: 2.0 DELETE 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124dReceived message: 2.0 ISALIVE 3 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d

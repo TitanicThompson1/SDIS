@@ -1,0 +1,15 @@
+Received message: 2.0 PUTCHUNK 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 0 2
+Received message: 2.0 PUTCHUNK 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 1 2
+Received message: 2.0 STORED 2 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 1
+Sending message 2.0 STORED 4 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 0
+Received message: 2.0 STORED 3 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 0
+Peers that backs up: [3]
+Incremented the replication degree of 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d_0 to 2
+Received message: 2.0 STORED 3 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d 1
+File already with the desired rep deg. No need to store it
+Received message: 2.0 DELETE 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d
+Received message: 2.0 DELETE 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d
+Deleted file 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d_0.ckn
+Removed chunk: 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d_0_2_64000_3
+Received message: 2.0 ISALIVE 3 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d
+Received message: 2.0 DEAD 1 3d38f0d36a0f8889e4ab3537f438c88cde61fcc1f8eeb496e13a8142516d124d
